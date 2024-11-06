@@ -4,7 +4,9 @@
 🌱 I finished Professional Training Course) for Data analyst position and Mastered:
 - Data preprocessing, Phyton, SQL
 - Statistical, Exploratory Data analysis
-- Analysing business metrics & Business decision-making Storytelling with data & Building dashboards in Tableau 
+- Analysing business metrics & Business decision-making Storytelling with data & Building dashboards in Tableau
+
+💬You can connect with me via LinkedIn profile or email. 
 
 
 <!--
