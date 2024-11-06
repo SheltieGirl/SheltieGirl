@@ -1,5 +1,6 @@
 ## Hi there 👋
 🔭 I’m currently working at Teads Japan as Account Manager / Customer Experience / Data Expert / LG CTV Expert
+
 🌱 I finished Professional Training Course) for Data analyst position and Mastered:
 - Data preprocessing, Phyton, SQL
 - Statistical, Exploratory Data analysis
