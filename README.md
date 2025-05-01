@@ -1,7 +1,7 @@
 ## Hi there 👋
-🔭 I’m currently working at Teads Japan as Account Manager / Customer Experience / Data Expert / LG CTV Expert
+🔭 I’m currently working at BAT Japan as Data Analyst / Data & Analytics Junior Manager
 
-🌱 I finished Professional Training Course) for Data analyst position and Mastered:
+🌱 I finished Professional Training Course for Data analyst position and Mastered:
 - Data preprocessing, Phyton, SQL
 - Statistical, Exploratory Data analysis
 - Analysing business metrics & Business decision-making Storytelling with data & Building dashboards in Tableau
